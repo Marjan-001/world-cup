@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Aleo&family=Poppins&display=swap');
+
+/* common styles */
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: white;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
+
+
+/* style top section */
+
+.top-heading {
+    display: flex;
+    justify-content: center;
+    width: 1321px;
+    ;
+    height: 646px;
+    left: 140px;
+    top: 50px;
+    background: #161616;
+    border-radius: 30px;
+}
+
+.heading {
+    position: absolute;
+    width: 531px;
+    height: 424px;
+    left: 246px;
+}
+
+.heading h1 {
+    color: white;
+    font-size: 70px;
+}
+
+.heading p {
+    color: white;
+    font-size: 16px;
+}
+
+.heading img {
+    position: absolute;
+    width: 581px;
+    height: 613px;
+    left: 580px;
+    top: 33px;
+}
+
+.watch-button {
+    padding: 10px 40px;
+    background-color: red;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+}
