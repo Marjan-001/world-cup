@@ -199,7 +199,6 @@ footer {
         display: flex;
         flex-direction: row;
         justify-content: center;
-        <i class="fa-brands fa-facebook"></i>
     }
     .options {
         display: flex;
